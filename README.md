@@ -1,5 +1,2 @@
-# Privacy policy
 ## TTV Emotes for WhatsApp
-[App link](https://play.google.com/store/apps/details?id=com.federici.twitchstickers)
-
-📦 This app contains the most famous TTV/BetterTTV emotes, including certain streamers like xQc, Forsen and so on.
+This page contains the privacy policy for my app [TTV Emotes for WhatsApp](https://play.google.com/store/apps/details?id=com.federici.twitchstickers), in order to comply with the new Google AdMob guidelines.
